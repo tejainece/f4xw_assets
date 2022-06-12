@@ -5,7 +5,7 @@
 	"sprites": [
 		{
 			"uri": "00.png",
-			"anchor": "40:45"
+			"anchor": "0:0"
 		}
 	]
 }
