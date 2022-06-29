@@ -2,10 +2,11 @@
 	"name": "mango_bush",
 	"interval": 100,
 	"size": "78:61",
+	"anchor": "39:46",
 	"sprites": [
 		{
 			"uri": "00.png",
-			"anchor": "0:0"
+			"anchor": "39:46"
 		}
 	]
 }

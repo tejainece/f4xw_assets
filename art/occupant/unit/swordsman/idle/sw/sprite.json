@@ -1,0 +1,31 @@
+{
+	"interval": 100,
+	"anchor": "18:36",
+	"size": "31:44",
+	"sprites": [
+		{
+			"uri": "00.png",
+			"anchor": "17:36"
+		},
+		{
+			"uri": "01.png",
+			"anchor": "17:36"
+		},
+		{
+			"uri": "02.png",
+			"anchor": "18:35"
+		},
+		{
+			"uri": "03.png",
+			"anchor": "18:35"
+		},
+		{
+			"uri": "04.png",
+			"anchor": "18:36"
+		},
+		{
+			"uri": "05.png",
+			"anchor": "17:36"
+		}
+	]
+}
