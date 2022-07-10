@@ -1,0 +1,57 @@
+{
+	"name": "militia.walk.se",
+	"interval": 100,
+	"anchor": "20:38",
+	"size": "32:46",
+	"flip": true,
+	"sprites": [
+		{
+			"uri": "../sw/00.png",
+			"anchor": "17:37"
+		},
+		{
+			"uri": "../sw/01.png",
+			"anchor": "18:37"
+		},
+		{
+			"uri": "../sw/02.png",
+			"anchor": "20:38"
+		},
+		{
+			"uri": "../sw/03.png",
+			"anchor": "21:39"
+		},
+		{
+			"uri": "../sw/04.png",
+			"anchor": "20:39"
+		},
+		{
+			"uri": "../sw/05.png",
+			"anchor": "20:38"
+		},
+		{
+			"uri": "../sw/06.png",
+			"anchor": "19:37"
+		},
+		{
+			"uri": "../sw/07.png",
+			"anchor": "20:36"
+		},
+		{
+			"uri": "../sw/08.png",
+			"anchor": "20:37"
+		},
+		{
+			"uri": "../sw/09.png",
+			"anchor": "20:38"
+		},
+		{
+			"uri": "../sw/10.png",
+			"anchor": "20:38"
+		},
+		{
+			"uri": "../sw/11.png",
+			"anchor": "18:38"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+  "name": "militia.attack.nw",
+  "interval": 200,
+  "anchor": "33:49",
+  "size": "56:62",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "11:44"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "15:43"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "15:40"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "18:45"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "15:49"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "33:34"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "14:33"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "14:34"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "28:35"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "22:40"
+    }
+  ]
+}
