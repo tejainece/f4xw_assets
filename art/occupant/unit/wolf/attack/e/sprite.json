@@ -1,0 +1,88 @@
+{
+  "interval": 100,
+  "anchor": "66:17",
+  "size": "95:33",
+  "flip": true,
+  "sprites": [
+    {
+      "uri": "../w/00.png",
+      "anchor": "31:11"
+    },
+    {
+      "uri": "../w/01.png",
+      "anchor": "36:12"
+    },
+    {
+      "uri": "../w/02.png",
+      "anchor": "43:13"
+    },
+    {
+      "uri": "../w/03.png",
+      "anchor": "51:12"
+    },
+    {
+      "uri": "../w/04.png",
+      "anchor": "58:10"
+    },
+    {
+      "uri": "../w/05.png",
+      "anchor": "64:10"
+    },
+    {
+      "uri": "../w/06.png",
+      "anchor": "66:12"
+    },
+    {
+      "uri": "../w/07.png",
+      "anchor": "66:14"
+    },
+    {
+      "uri": "../w/08.png",
+      "anchor": "65:16"
+    },
+    {
+      "uri": "../w/09.png",
+      "anchor": "64:16"
+    },
+    {
+      "uri": "../w/10.png",
+      "anchor": "62:12"
+    },
+    {
+      "uri": "../w/11.png",
+      "anchor": "55:10"
+    },
+    {
+      "uri": "../w/12.png",
+      "anchor": "47:9"
+    },
+    {
+      "uri": "../w/13.png",
+      "anchor": "43:14"
+    },
+    {
+      "uri": "../w/14.png",
+      "anchor": "38:19"
+    },
+    {
+      "uri": "../w/15.png",
+      "anchor": "32:14"
+    },
+    {
+      "uri": "../w/16.png",
+      "anchor": "28:10"
+    },
+    {
+      "uri": "../w/17.png",
+      "anchor": "27:11"
+    },
+    {
+      "uri": "../w/18.png",
+      "anchor": "27:10"
+    },
+    {
+      "uri": "../w/19.png",
+      "anchor": "28:10"
+    }
+  ]
+}

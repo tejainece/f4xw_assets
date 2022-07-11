@@ -1,0 +1,87 @@
+{
+  "interval": 100,
+  "anchor": "50:33",
+  "size": "73:53",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "24:16"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "27:19"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "32:22"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "38:24"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "42:25"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "45:25"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "46:28"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "45:31"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "45:33"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "48:32"
+    },
+    {
+      "uri": "10.png",
+      "anchor": "50:30"
+    },
+    {
+      "uri": "11.png",
+      "anchor": "44:25"
+    },
+    {
+      "uri": "12.png",
+      "anchor": "37:21"
+    },
+    {
+      "uri": "13.png",
+      "anchor": "33:24"
+    },
+    {
+      "uri": "14.png",
+      "anchor": "29:25"
+    },
+    {
+      "uri": "15.png",
+      "anchor": "25:20"
+    },
+    {
+      "uri": "16.png",
+      "anchor": "22:13"
+    },
+    {
+      "uri": "17.png",
+      "anchor": "20:12"
+    },
+    {
+      "uri": "18.png",
+      "anchor": "21:12"
+    },
+    {
+      "uri": "19.png",
+      "anchor": "22:13"
+    }
+  ]
+}
