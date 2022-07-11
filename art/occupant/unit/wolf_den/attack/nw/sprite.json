@@ -4,7 +4,7 @@
 	"anchor": "64:90",
 	"sprites": [
 		{
-			"uri": "00.png",
+			"uri": "../../idle/sw/00.png",
 			"anchor": "64:90"
 		}
 	]

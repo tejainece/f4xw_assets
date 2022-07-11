@@ -1,6 +1,6 @@
 {
 	"name": "militia.attack.sw",
-	"interval": 200,
+	"interval": 180,
 	"anchor": "28:51",
 	"size": "47:61",
 	"sprites": [
