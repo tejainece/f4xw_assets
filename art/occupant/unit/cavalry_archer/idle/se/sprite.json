@@ -2,45 +2,46 @@
 	"interval": 200,
 	"anchor": "32:67",
 	"size": "63:82",
+	"flip": true,
 	"sprites": [
 		{
-			"uri": "00.png",
+			"uri": "../sw/00.png",
 			"anchor": "32:61"
 		},
 		{
-			"uri": "01.png",
+			"uri": "../sw/01.png",
 			"anchor": "26:61"
 		},
 		{
-			"uri": "02.png",
+			"uri": "../sw/02.png",
 			"anchor": "26:64"
 		},
 		{
-			"uri": "03.png",
+			"uri": "../sw/03.png",
 			"anchor": "29:62"
 		},
 		{
-			"uri": "04.png",
+			"uri": "../sw/04.png",
 			"anchor": "25:64"
 		},
 		{
-			"uri": "05.png",
+			"uri": "../sw/05.png",
 			"anchor": "25:65"
 		},
 		{
-			"uri": "06.png",
+			"uri": "../sw/06.png",
 			"anchor": "31:62"
 		},
 		{
-			"uri": "07.png",
+			"uri": "../sw/07.png",
 			"anchor": "38:59"
 		},
 		{
-			"uri": "08.png",
+			"uri": "../sw/08.png",
 			"anchor": "37:60"
 		},
 		{
-			"uri": "09.png",
+			"uri": "../sw/09.png",
 			"anchor": "35:61"
 		}
 	]

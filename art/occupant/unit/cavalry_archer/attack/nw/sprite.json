@@ -1,0 +1,59 @@
+{
+  "interval": 180,
+  "anchor": "35:73",
+  "size": "67:91",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "34:61"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "34:61"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "34:61"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "34:61"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "35:73"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "35:62"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "35:63"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "35:69"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "34:70"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "34:69"
+    },
+    {
+      "uri": "10.png",
+      "anchor": "34:64"
+    },
+    {
+      "uri": "11.png",
+      "anchor": "34:61"
+    },
+    {
+      "uri": "12.png",
+      "anchor": "34:60"
+    }
+  ]
+}

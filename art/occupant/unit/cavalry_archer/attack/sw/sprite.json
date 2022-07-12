@@ -1,0 +1,59 @@
+{
+  "interval": 180,
+  "anchor": "38:70",
+  "size": "66:88",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "36:60"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "36:60"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "36:71"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "38:59"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "36:61"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "10.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "11.png",
+      "anchor": "36:59"
+    },
+    {
+      "uri": "12.png",
+      "anchor": "36:59"
+    }
+  ]
+}
