@@ -1,48 +1,52 @@
 {
-  "interval": 200,
-  "anchor": "28:53",
-  "size": "49:58",
+  "interval": 100,
+  "anchor": "39:40",
+  "size": "52:49",
   "flip": true,
   "sprites": [
     {
-      "uri": "../e/00.png",
-      "anchor": "27:42"
+      "uri": "../w/00.png",
+      "anchor": "23:40"
     },
     {
-      "uri": "../e/01.png",
-      "anchor": "32:48"
+      "uri": "../w/01.png",
+      "anchor": "31:39"
     },
     {
-      "uri": "../e/02.png",
-      "anchor": "24:53"
+      "uri": "../w/02.png",
+      "anchor": "38:39"
     },
     {
-      "uri": "../e/03.png",
-      "anchor": "20:53"
+      "uri": "../w/03.png",
+      "anchor": "40:39"
     },
     {
-      "uri": "../e/04.png",
-      "anchor": "19:53"
+      "uri": "../w/04.png",
+      "anchor": "39:39"
     },
     {
-      "uri": "../e/05.png",
-      "anchor": "19:53"
+      "uri": "../w/05.png",
+      "anchor": "37:39"
     },
     {
-      "uri": "../e/06.png",
-      "anchor": "20:53"
+      "uri": "../w/06.png",
+      "anchor": "34:39"
     },
     {
-      "uri": "../e/07.png",
-      "anchor": "22:52"
+      "uri": "../w/07.png",
+      "anchor": "33:39"
     },
     {
-      "uri": "../e/08.png",
-      "anchor": "20:45"
+      "uri": "../w/08.png",
+      "anchor": "32:39"
     },
     {
-      "uri": "../e/09.png",
-      "anchor": "17:38"
+      "uri": "../w/09.png",
+      "anchor": "29:39"
+    },
+    {
+      "uri": "../w/10.png",
+      "anchor": "23:40"
     }
   ]
 }

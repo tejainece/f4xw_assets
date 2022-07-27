@@ -1,51 +1,51 @@
 {
-	"interval": 200,
-	"anchor": "26:38",
-	"size": "41:48",
-	"sprites": [
-		{
-			"uri": "00.png",
-			"anchor": "27:38",
-			"translate": "4:0"
-		},
-		{
-			"uri": "01.png",
-			"anchor": "23:38",
-			"translate": "-2:0"
-		},
-		{
-			"uri": "02.png",
-			"anchor": "25:38"
-		},
-		{
-			"uri": "03.png",
-			"anchor": "25:38"
-		},
-		{
-			"uri": "04.png",
-			"anchor": "25:38",
-			"translate": "-1:0"
-		},
-		{
-			"uri": "05.png",
-			"anchor": "26:38"
-		},
-		{
-			"uri": "06.png",
-			"anchor": "26:38"
-		},
-		{
-			"uri": "07.png",
-			"anchor": "26:38"
-		},
-		{
-			"uri": "08.png",
-			"anchor": "26:38",
-			"translate": "1:0"
-		},
-		{
-			"uri": "09.png",
-			"anchor": "25:38"
-		}
-	]
+  "interval": 100,
+  "anchor": "22:42",
+  "size": "32:54",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "22:42"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "22:42"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "22:42"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "22:42"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "20:42"
+    },
+    {
+      "uri": "10.png",
+      "anchor": "20:42"
+    }
+  ]
 }
