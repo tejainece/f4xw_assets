@@ -1,0 +1,47 @@
+{
+  "interval": 100,
+  "anchor": "30:17",
+  "size": "67:42",
+  "sprites": [
+    {
+      "uri": "00.png",
+      "anchor": "30:17"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "29:12"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "28:10"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "26:10"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "24:9"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "25:10"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "22:10"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "16:7"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "17:7"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "16:7"
+    }
+  ]
+}
