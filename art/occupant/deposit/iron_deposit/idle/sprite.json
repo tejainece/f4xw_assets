@@ -1,0 +1,10 @@
+{
+	"interval": 250,
+	"anchor": "75:96",
+	"size": "150:128",
+	"sprites": [
+		{
+			"uri": "00.png"
+		}
+	]
+}
