@@ -1,7 +1,7 @@
 {
 	"interval": 250,
-	"anchor": "75:96",
-	"size": "150:128",
+	"anchor": "64:75",
+	"size": "128:109",
 	"sprites": [
 		{
 			"uri": "00.png"
