@@ -2,7 +2,7 @@
   "interval": 100,
   "anchor": "47:37",
   "size": "57:68",
-  "sprites": [
+  "frames": [
     {
       "uri": "../sw/00.png",
       "anchor": "15:37"

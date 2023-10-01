@@ -4,7 +4,7 @@
   "anchor": "33:49",
   "size": "56:62",
   "flip": true,
-  "sprites": [
+  "frames": [
     {
       "uri": "../nw/00.png",
       "anchor": "11:44"
