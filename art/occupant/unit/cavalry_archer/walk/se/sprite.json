@@ -3,7 +3,7 @@
   "anchor": "33:64",
   "size": "61:78",
   "flip": true,
-  "sprites": [
+  "frames": [
     {
       "uri": "../sw/00.png",
       "anchor": "32:61"
