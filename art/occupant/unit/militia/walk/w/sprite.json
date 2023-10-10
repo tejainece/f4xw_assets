@@ -3,6 +3,7 @@
   "interval": 100,
   "anchor": "23:38",
   "size": "37:45",
+  "refScale": 90,
   "frames": [
     {
       "uri": "00.png",

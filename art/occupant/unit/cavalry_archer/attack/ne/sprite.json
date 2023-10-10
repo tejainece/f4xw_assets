@@ -3,6 +3,7 @@
   "anchor": "35:73",
   "size": "67:91",
   "flip": true,
+  "refScale": 90,
   "frames": [
     {
       "uri": "../nw/00.png",

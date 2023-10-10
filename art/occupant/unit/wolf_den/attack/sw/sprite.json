@@ -2,6 +2,7 @@
 	"interval": 100,
 	"size": "128:128",
 	"anchor": "64:90",
+	"refScale": 100,
 	"frames": [
 		{
 			"uri": "../../idle/sw/00.png",
