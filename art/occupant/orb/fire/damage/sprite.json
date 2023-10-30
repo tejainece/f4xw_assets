@@ -1,0 +1,13 @@
+{
+  "interval": 250,
+  "anchor": "64:64",
+  "size": "128:128",
+  "refScale": 128,
+  "comment": "TODO: implement this",
+  "frames": [
+    {
+      "uri": "../idle/000.png",
+      "anchor": "64:64"
+    }
+  ]
+}
