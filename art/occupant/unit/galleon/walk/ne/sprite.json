@@ -1,0 +1,13 @@
+{
+	"interval": 100,
+	"anchor": "254:322",
+	"size": "512:512",
+	"refScale": 512,
+	"flip": true,
+	"frames": [
+		{
+			"uri": "../nw/00.png",
+			"anchor": "254:322"
+		}
+	]
+}
