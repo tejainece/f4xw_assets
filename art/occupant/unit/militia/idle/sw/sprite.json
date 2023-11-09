@@ -5,28 +5,22 @@
 	"refScale": 90,
 	"frames": [
 		{
-			"uri": "00.png",
-			"anchor": "20:42"
+			"uri": "00.png"
 		},
 		{
-			"uri": "01.png",
-			"anchor": "20:42"
+			"uri": "01.png"
 		},
 		{
-			"uri": "02.png",
-			"anchor": "20:42"
+			"uri": "02.png"
 		},
 		{
-			"uri": "03.png",
-			"anchor": "20:42"
+			"uri": "03.png"
 		},
 		{
-			"uri": "04.png",
-			"anchor": "20:42"
+			"uri": "04.png"
 		},
 		{
-			"uri": "05.png",
-			"anchor": "20:42"
+			"uri": "05.png"
 		}
 	]
 }
