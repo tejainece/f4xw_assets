@@ -5,7 +5,8 @@
   "refScale": 512,
   "frames": [
     {
-      "uri": "arrow.png"
+      "uri": "arrow.png",
+      "anchor": "25:8"
     }
   ]
 }
