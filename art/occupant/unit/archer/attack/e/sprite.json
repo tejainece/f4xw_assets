@@ -4,10 +4,6 @@
   "size": "52:49",
   "flip": true,
   "refScale": 90,
-  "additionalData": {
-    "projectileStartDuration": 500,
-    "projectileOffset": "0:10"
-  },
   "frames": [
     {
       "uri": "../w/00.png",
@@ -53,5 +49,11 @@
       "uri": "../w/10.png",
       "anchor": "23:40"
     }
-  ]
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "52:10"
+    }
+  }
 }

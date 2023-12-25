@@ -49,5 +49,11 @@
       "uri": "../sw/10.png",
       "anchor": "23:40"
     }
-  ]
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "48:10"
+    }
+  }
 }

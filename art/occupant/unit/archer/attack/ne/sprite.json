@@ -49,5 +49,11 @@
       "uri": "../nw/10.png",
       "anchor": "22:38"
     }
-  ]
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "42:10"
+    }
+  }
 }
