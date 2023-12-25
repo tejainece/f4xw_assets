@@ -1,6 +1,6 @@
 {
   "name": "militia.attack.e",
-  "interval": 100,
+  "interval": 75,
   "anchor": "32:45",
   "size": "45:59",
   "flip": true,

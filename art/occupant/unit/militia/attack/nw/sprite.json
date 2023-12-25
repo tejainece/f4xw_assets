@@ -1,6 +1,6 @@
 {
   "name": "militia.attack.nw",
-  "interval": 200,
+  "interval": 75,
   "anchor": "33:49",
   "size": "56:62",
   "refScale": 90,

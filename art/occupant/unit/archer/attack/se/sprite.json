@@ -53,7 +53,7 @@
   "data": {
     "projectile": {
       "launchDelay": 500,
-      "launchOffset": "48:10"
+      "launchOffset": "0:15"
     }
   }
 }
