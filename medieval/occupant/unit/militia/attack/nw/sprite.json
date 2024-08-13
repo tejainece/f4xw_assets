@@ -45,5 +45,11 @@
       "uri": "09.png",
       "anchor": "22:40"
     }
-  ]
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "0:10"
+    }
+  }
 }
