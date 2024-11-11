@@ -1,0 +1,33 @@
+{
+	"interval": 250,
+	"anchor": "20:42",
+	"size": "37:50",
+	"flip": true,
+	"refScale": 90,
+	"frames": [
+		{
+			"uri": "../sw/00.png",
+			"anchor": "20:42"
+		},
+		{
+			"uri": "../sw/01.png",
+			"anchor": "20:42"
+		},
+		{
+			"uri": "../sw/02.png",
+			"anchor": "20:42"
+		},
+		{
+			"uri": "../sw/03.png",
+			"anchor": "20:42"
+		},
+		{
+			"uri": "../sw/04.png",
+			"anchor": "20:42"
+		},
+		{
+			"uri": "../sw/05.png",
+			"anchor": "20:42"
+		}
+	]
+}
