@@ -1,0 +1,55 @@
+{
+  "name": "militia.attack.w",
+  "interval": 75,
+  "anchor": "32:45",
+  "size": "45:59",
+  "refScale": 90,
+  "frames": [
+    {
+      "uri": "00.png",
+      "anchor": "21:37"
+    },
+    {
+      "uri": "01.png",
+      "anchor": "11:43"
+    },
+    {
+      "uri": "02.png",
+      "anchor": "11:38"
+    },
+    {
+      "uri": "03.png",
+      "anchor": "10:43"
+    },
+    {
+      "uri": "04.png",
+      "anchor": "33:36"
+    },
+    {
+      "uri": "05.png",
+      "anchor": "17:33"
+    },
+    {
+      "uri": "06.png",
+      "anchor": "14:32"
+    },
+    {
+      "uri": "07.png",
+      "anchor": "14:32"
+    },
+    {
+      "uri": "08.png",
+      "anchor": "13:34"
+    },
+    {
+      "uri": "09.png",
+      "anchor": "20:36"
+    }
+  ],
+  "data": {
+    "projectile": {
+      "launchDelay": 500,
+      "launchOffset": "52:10"
+    }
+  }
+}
