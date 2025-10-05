@@ -1,0 +1,11 @@
+{
+	"interval": 250,
+	"anchor": "256:256",
+	"size": "512:512",
+	"refScale": 512,
+	"frames": [
+		{
+			"uri": "00.png"
+		}
+	]
+}
